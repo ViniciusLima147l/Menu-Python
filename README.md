@@ -30,7 +30,6 @@ Feito como trabalho para a faculdade Uninter
    python menu_livro.py
    ```
 
----
 
 
 ---
