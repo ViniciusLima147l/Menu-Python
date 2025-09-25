@@ -32,11 +32,6 @@ Feito como trabalho para a faculdade Uninter
 
 ---
 
-## 📌 Estrutura do Projeto
-```
-menu_livro.py   # Código principal do sistema
-README.md       # Este arquivo de documentação
-```
 
 ---
 
